@@ -13,5 +13,10 @@ A **handwritten style** font suitable for body text and decorative purposes.
 - **Supported Characters**: Uppercase & Lowercase (A-Z), Numbers (0-9)
 - **Punctuation & Symbols**: Supports various marks including — (Em Dash), – (En Dash), - (Hyphen), " , ' , ; , : , , , .
 
+### 3. LoV-Modern
+This font was created by reinterpreting Valisthea characters in a **modern form**. Right now, I only have regular types, but if I have time and motivation, I would like to make other thicknesses and have a font set.
+- **Supported Characters**: Uppercase & Lowercase (A-Z), Numbers (0-9)
+- **Punctuation & Symbols**: Supports various marks including — (Em Dash), – (En Dash), - (Hyphen), " , ' , ; , : , , ,
+- 
 ---
 *Disclaimer: This is a fan-made project inspired by FINAL FANTASY XVI. All rights to the original game assets belong to Square Enix.*: 
