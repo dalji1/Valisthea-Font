@@ -25,7 +25,7 @@ Letters of Valisthea is released under a permissive license for fans and creator
 - **Modify:** Change or build upon the font's design.
 - **Redistribute:** Share the original or modified versions. (Please tell me when you redistribute it!)
 - **Commercial Use:** Use the font in commercial projects.
-- 
+  
 **Selling these font files itself is strictly prohibited.**
   
 ---
